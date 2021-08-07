@@ -7,6 +7,12 @@
   background: #ccc;
 }
 
+#signup{
+background-color: #476072;
+}
+#signup:hover{
+  background: #ccc;
+}
 
 .bd-placeholder-img {
     font-size: 1.125rem;
