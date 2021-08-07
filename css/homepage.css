@@ -5,6 +5,7 @@
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
+    background-image: url;
   }
 
   @media (min-width: 768px) {
