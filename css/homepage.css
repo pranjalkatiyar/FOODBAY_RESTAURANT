@@ -3,13 +3,17 @@
   margin-left: 10px;
   margin-right: 10px;
 }
+#signup{
+  background-color: #476072;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 #login:hover{
   background: #ccc;
 }
 
-#signup{
-background-color: #476072;
-}
+
+
 #signup:hover{
   background: #ccc;
 }
